@@ -1,1 +1,3 @@
-puts "Welcome to Tic Tac Toe!"
+def greeting
+  puts "Hi, Ruby programmer!"
+end
